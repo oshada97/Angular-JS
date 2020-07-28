@@ -1,2 +1,2 @@
 # Angular-JS
-Angular JS learning. :grinning:
+Angular JS learning. Node JS + Angular 10 :grinning:
