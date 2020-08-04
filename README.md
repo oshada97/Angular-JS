@@ -1,4 +1,4 @@
-# Angular-JS
+# Angular- Todo List Application
 Angular JS learning. Node JS + Angular 10 :grinning:
 Testing
 
